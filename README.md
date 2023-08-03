@@ -1,2 +1,3 @@
-# TowerDefense
-The console game
+# Cats' Castle
+Fortify the towers. Smear the monsters. Earn money. Forify the towers...
+
